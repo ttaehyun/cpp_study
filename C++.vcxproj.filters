@@ -51,7 +51,10 @@
     <ClCompile Include="game.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="to_upper.cpp">
+    <ClCompile Include="pointer1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
