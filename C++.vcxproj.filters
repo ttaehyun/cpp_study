@@ -57,5 +57,14 @@
     <ClCompile Include="pointer2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="swap1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="swap2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="swap3.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
