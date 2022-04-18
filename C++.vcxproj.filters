@@ -66,5 +66,14 @@
     <ClCompile Include="swap3.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="hangman.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="car_class.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="car_class0.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
